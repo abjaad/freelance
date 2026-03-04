@@ -30,7 +30,7 @@ hidden: false
 
 ناس شايلين أكسنت إنجليزي تقيل، بيتكلموا بطريقة مش بتاعتهم، مغيرين اسمهم، لو قلت ليهم كلمة عربية في الكلام هيبصوا عليك بنظرة "أنا اسمي اليكس مش علي" بيتنكروا لكل حاجة بتعرفهم، وفي الآخر لا الأجنبي مصدقهم ولا المصري مرتاحلهم
 
-<iframe width="560" height="315" 
+<iframe width="auto" height="auto" 
   src="https://youtube.com/watch?v=8ieFc0Ex1RE" 
   title="YouTube video player" 
   frameborder="0" 
