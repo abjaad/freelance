@@ -123,3 +123,6 @@ hidden: false
 مش محتاج كورس تاني
 
 محتاج تتحرك 
+
+[prev "البورتفليو" /basics/portfolio]
+
