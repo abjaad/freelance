@@ -71,7 +71,6 @@ hidden: false
 
 لو قررت تكمل، الخطوة الجاية هي
 
-[prev "test" /basics/intro]
 [next "ليه الانجليزي مهم؟" /basics/does-language-matter]
 
 > 📝 اي تشابه بين الاسماء الموجودة والحقيقة هي من وحي خيال القارئ

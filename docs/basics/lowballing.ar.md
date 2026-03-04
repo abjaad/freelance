@@ -28,6 +28,7 @@ hidden: false
 
 بياع الـ 2 جنيه مش بس خسّر نفسه، خسّر السوق كله
 
+![بياع خضروات عشوائي من على جوجل](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKEYv9CkXvBNCGU2TSn-AGrWoLiEDrcvLMk4C9BcdduJRukKMUNO9-2Sk&s=10)
 ---
 
 ## وده بالظبط اللي بيحصل في الفريلانس
@@ -81,3 +82,6 @@ hidden: false
 في الفريلانس: Portfolio قوي، كلام واضح عن شغلك، وعميل واحد راضي بيجيب عشرة غيره
 
 العميل اللي هيتجادل معاك في كل جنيه مش العميل اللي هتحب تشتغل معاه
+
+[prev "المهارة" /basics/skills]
+[next "البورتفليو" /basics/portfolio]
