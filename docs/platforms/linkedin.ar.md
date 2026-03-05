@@ -22,7 +22,7 @@ hidden: false
 
 ---
 
-## لينكدإن مش موقع شغل (اظاي 😱)
+## لينكدإن مش موقع شغل (اظاي :shocked_face_with_exploding_head:)
 
 أكبر غلطة الناس بتعملها إنهم بيفتحوا LinkedIn ويدوروا على "Job Postings" زي ما بيعملوا على Upwork
 
