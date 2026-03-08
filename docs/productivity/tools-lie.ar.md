@@ -14,6 +14,11 @@ category_description:
   en: "How to work smarter not harder as a freelancer"
   ar: "إزاي تشتغل بذكاء مش بجهد كفريلانسر"
 hidden: false
+faq:
+  - q: "What is this wiki?"
+    a: "A documentation resource for freelancers."
+  - q: "Is it free to use?"
+    a: "Yes, completely free."
 ---
 
 # كذبة الأدوات
