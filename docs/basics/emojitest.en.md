@@ -30,6 +30,8 @@ Mushroom 🍄
 
 🫍 🧑‍🩰 🙂‍↕️
 
+is it apple 🍏 or 🐦itter? sorry, ✖️ 
+
 Head shaking horizontally 🙂‍↔️
 
 Head shaking vertically 🙂‍↕️
