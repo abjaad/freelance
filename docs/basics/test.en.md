@@ -21,6 +21,8 @@ faq:
     a: "Check View Source and search for application/ld+json."
   - q: "Does it work in Arabic?"
     a: "The same FAQ block renders for all languages."
+  - q: "Question?"
+    a: "Answered"
 ---
 
 # FAQ Test Page
@@ -31,3 +33,5 @@ This page exists only to test FAQ structured data rendering.
 
 If you see an accordion above this line, the shortcode is working.
 Check View Source for `application/ld+json` to confirm schema output.
+
+let's see 
