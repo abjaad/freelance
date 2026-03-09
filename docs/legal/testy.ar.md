@@ -14,6 +14,13 @@ category_description:
   en: "How to protect yourself legally and get employee benefits as a freelancer"
   ar: "إزاي تحمي نفسك قانونياً وتاخد مميزات موظف كفريلانسر"
 hidden: true
+faq:
+ - q: "بسم الله"
+   a: "الرحمن الرحيم"
+ - q: "كيف حالك"
+   a: "تمام"
+ - q: "سؤال كمان"
+   a: "طيب"
 ---
 
 # نجرب؟؟ 🙏🤙🤓🫡
