@@ -75,5 +75,5 @@ hidden: false
 
 العميل اللي بيدفع كويس مش بيدفع على الأداة، بيدفع على الخبرة اللي بتستخدم بيها الأداة
 
-[prev "هل اللغة مهمة" /basics/does-language-matter]
+[prev "هل اللغة مهمة" basics/does-language-matter]
 [next "الستعير العادل" /basics/lowballing]
