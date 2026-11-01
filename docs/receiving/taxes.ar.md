@@ -13,7 +13,7 @@ category_title:
 category_description:
   en: "How to price yourself, raise your rates, and manage irregular income"
   ar: "إزاي تسعّر نفسك وترفع أسعارك وتتعامل مع الدخل المتغير"
-hidden: false
+hidden: true
 ---
 
 > 🚧 الصفحة دي لسه بتتكتب
