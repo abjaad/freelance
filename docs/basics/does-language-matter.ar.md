@@ -113,5 +113,5 @@ hidden: false
 | LetMeSpeak | ESL Discussions |
 | Reddit | Discord |
 
-[prev "المقدمة والعقلية" /basics/intro]
+[prev "المقدمة والعقلية" basics/intro]
 [next "المهارة ضد السبوبة" /basics/skills]
