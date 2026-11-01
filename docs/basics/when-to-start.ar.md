@@ -1,7 +1,7 @@
 ---
 title:
   en: "When to Start?"
-  ar: "تبدأ امتى؟"
+  ar: "تبدأ امتى؟ تيست"
 description:
   en: "The story of the warrior who kept collecting weapons and never fought"
   ar: "قصة المحارب اللي فضل يجمع سلاح ومات من غير ما يحارب"
