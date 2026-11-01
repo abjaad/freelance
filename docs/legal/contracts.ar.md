@@ -92,7 +92,7 @@ hidden: false
 اداة [Freelancers Union Contract Creator](https://freelancersunion.org/contract/) - بيساعدك تعمل عقد احترافي للعملاء الأمريكان مجاناً
 
 **عقود مفتوحة المصدر:**
-[نماذج لعقود جاهزة](https://github.com/bevacqua/legally)
+نماذج لعقود جاهزة
 
 **للفواتير:**
 - أداة **Invoice Ninja** - مجاني وopen source
