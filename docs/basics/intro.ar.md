@@ -71,6 +71,6 @@ hidden: false
 
 لو قررت تكمل، الخطوة الجاية هي
 
-[next "ليه الانجليزي مهم؟" /basics/does-language-matter]
+[next "ليه الانجليزي مهم؟" basics/does-language-matter]
 
 > 📝 اي تشابه بين الاسماء الموجودة والحقيقة هي من وحي خيال القارئ
